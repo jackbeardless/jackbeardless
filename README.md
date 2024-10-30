@@ -7,7 +7,7 @@
 
 - 🎥 I’m currently working on [CineMatch](https://github.com/jackbeardless/CineMatch/tree/main)
 
-- 🌱 I’m currently learning **C, C++, C#, html, css, JavaScript and Python!**
+- 🌱 I’m currently learning **C, C++, C#, html, css, JavaScript, Python, and GO!**
 
 - 📫 How to reach me: **jackbeardd@icloud.com**
 
