@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackbeardless" alt="jackbeardless" /></a> </p>
 
-- 🎥 I’m currently working on [StudentSwap](https://github.com/jackbeardless/StudentSwap/tree/main)
+- 🎥 I’m currently working on [StudentSwap](https://github.com/Ric-cpu/UniMarketPlace)
 
-- 🌱 I’m currently learning **C, C++, C#, html, css, JavaScript, Python, and GO!**
 
-- 📫 How to reach me: **jackbeardd@icloud.com**
+- 📫 How to reach me: **jdbeard@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
