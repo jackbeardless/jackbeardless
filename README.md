@@ -2,10 +2,10 @@
 
 🚀 **Developer | Cybersecurity Enthusiast | Minecraft Plugin Creator**  
 
-I'm passionate about building **web applications**, securing digital environments, and creating **custom Minecraft plugins**. My work blends innovation, performance, and security to craft high-quality software solutions.  
+I'm passionate about building **web applications**, securing digital environments, and creating **custom Minecraft plugins**.  
 
 ## 🔧 What I Do  
-- **Web Development** – Full-stack development, optimizing for performance & scalability.  
+- **Web Development** – Full stack development, optimizing for performance & scalability.  
 - **Cybersecurity** – Securing applications, ethical hacking, and penetration testing.  
 - **Minecraft Plugin Development** – Creating and managing custom plugins to enhance gameplay.  
 
@@ -13,4 +13,4 @@ I'm passionate about building **web applications**, securing digital environment
 - 📧 Email: [jdbeard@proton.me](mailto:jdbeard@proton.me)  
 - 🎮 Discord: `duckontren`  
 
-💻 _"Code smart, stay secure."_  
+🦆 _"CI like ducks."_  
