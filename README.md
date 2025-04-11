@@ -1,6 +1,6 @@
 # 🌟 Hey, I'm Jack!  
 
-🚀 **Developer | Cybersecurity Enthusiast **  
+🚀 **Developer | Cybersecurity Enthusiast**  
 
 I'm passionate about building **web applications**, securing digital environments, and creating **custom Minecraft plugins**.  
 
