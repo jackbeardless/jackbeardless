@@ -45,10 +45,8 @@ A modular tool that analyses authentication logs to detect suspicious login beha
 
 <div align="center">
 
-### 📊 GitHub Analytics
+### Contact me
 
-![Jack's Stats](https://github-readme-stats.vercel.app/api?username=jackbeardless&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackbeardless&layout=compact&theme=radical&hide_border=true)
+Email: jdbeard@proton.me
 
 </div>
